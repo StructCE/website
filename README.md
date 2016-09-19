@@ -79,3 +79,6 @@ Um dos membros da equipe ficará responsável pelo _merge_
 * [Getting started git team environment](https://www.sitepoint.com/getting-started-git-team-environment/)
 
 Este website foi codificado por integrantes da Struct Empresa Júnior de Engenharia de Computação, Universidade de Brasília e está sob a Licença: [MIT License](https://opensource.org/licenses/MIT)
+
+##Teste:
+Comparando Branch e Fork

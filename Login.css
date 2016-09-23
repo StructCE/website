@@ -1,0 +1,15 @@
+#pseudo-logo {
+	color:#2da2ff;
+	font-family: 'Libre Baskerville', serif;
+	font-size: 100px;
+}
+#login{
+	border: 15px solid #fd8d4b;
+	padding: 30px;
+	background-color: gray;
+
+}
+#acesso{
+	font-size: 40px;
+	font-family: 'Libre Baskerville', serif;
+}

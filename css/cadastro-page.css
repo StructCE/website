@@ -1,0 +1,12 @@
+.panel-struct {
+  border-color: #54bbfe;
+}
+.panel-struct > .panel-heading {
+  color: white;
+  background-color: #54bbfe;
+  border-color: #54bbfe;
+}
+.panel-struct > .panel-footer {
+  border-top-color: #54bbfe;
+  background-color: #54bbfe;
+}
